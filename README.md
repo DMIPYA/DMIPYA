@@ -4,6 +4,13 @@
 
 I build Telegram bots, connect services through APIs, and make tools people can use from a chat, a browser, or a web page.
 
+## Live products
+
+| Product | What it does |
+| --- | --- |
+| Crafty | Web and Telegram tools for comparing CS2 marketplace quotes and estimating trade costs. [Open Crafty](https://craftybot.online/) |
+| Toklumo | An AI API service with key management and prepaid credits. [Open Toklumo](https://toklumo.xyz/) |
+
 ## Featured projects
 
 | Project | What you can explore | Stack |
